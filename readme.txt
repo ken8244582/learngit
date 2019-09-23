@@ -3,9 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 
+git branch test 
 
 我的测试文档
-
-
-
-我的测试文档2
